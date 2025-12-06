@@ -1,0 +1,7 @@
+nhl-api-py
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+pandas
+numpy
+requirements
